@@ -324,7 +324,7 @@ export default function Home() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205869962:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205950634:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full py-4 bg-[#f7e86f] text-[#1a1a1a] font-bold text-lg rounded-xl hover:bg-[#e6d85e] transition-colors text-center"
@@ -342,7 +342,7 @@ export default function Home() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881040:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951168:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full py-4 bg-[#f7e86f] text-[#1a1a1a] font-bold text-lg rounded-xl hover:bg-[#e6d85e] transition-colors text-center"
@@ -360,7 +360,7 @@ export default function Home() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881049:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951171:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full py-4 bg-[#f7e86f] text-[#1a1a1a] font-bold text-lg rounded-xl hover:bg-[#e6d85e] transition-colors text-center"
@@ -378,7 +378,7 @@ export default function Home() {
                   />
                 </div>
                 <a
-                  href="https://instituteabundance.mycartpanda.com/checkout/205881055:1"
+                  href="https://ageofabundance.mycartpanda.com/checkout/205951174:1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full py-4 bg-[#f7e86f] text-[#1a1a1a] font-bold text-lg rounded-xl hover:bg-[#e6d85e] transition-colors text-center"
